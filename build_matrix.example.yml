@@ -1,0 +1,14 @@
+---
+builds:
+    - pulls:
+      pr:
+      id:
+      branch:
+    -
+      pr:
+      id:
+      branch:
+    -
+      pr:
+      id:
+      branch:

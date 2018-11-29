@@ -1,0 +1,17 @@
+---
+builds:
+    - pulls:
+      upstream: https://github.com/ManageIQ/manageiq.git
+      name: manageiq
+      id: 18165
+      branch: remove_all_towhats
+    -
+      upstream: https://github.com/ManageIQ/manageiq-schema.git
+      name: manageiq-schema
+      id: 302
+      branch: create_resource_type_column
+    -
+      upstream: https://github.com/ManageIQ/manageiq-ui-classic.git
+      name: manageiq-ui-classic
+      id: 4890
+      branch: rename_towhat_to_resource_type
